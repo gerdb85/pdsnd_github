@@ -35,7 +35,7 @@ To run this program the following files are needed:
 
 ### Requirements
 
-This script is written in python (version 3.6.0) and relies on the following libarie: 
+This script is written in python (version 3.6.0) and relies on the following library: 
 * pandas (version 0.22) 
 
 ### Credits
