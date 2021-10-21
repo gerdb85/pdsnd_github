@@ -354,6 +354,7 @@ def main():
 
         restart = input('\nWould you like to restart?\nEnter yes or no.\n')
         if restart.lower() not in ['yes', 'y']:
+            print("Goodbye!")
             break
 
 
