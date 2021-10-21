@@ -33,5 +33,10 @@ To run this program the following files are needed:
 * new_york_city.csv
 * washington.csv   
 
+### Requirements
+
+This script is written in python (version 3.6.0) and relies on the following libarie: 
+* pandas (version 0.22) 
+
 ### Credits
 Thanks, to the creators of pynative.com for this awesome howto! [How to Convert Seconds To hh:mm:ss in Python](https://pynative.com/python-convert-seconds-to-hhmmss/)
