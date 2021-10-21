@@ -40,3 +40,5 @@ This script is written in python (version 3.6.0) and relies on the following lib
 
 ### Credits
 Thanks, to the creators of pynative.com for this awesome howto! [How to Convert Seconds To hh:mm:ss in Python](https://pynative.com/python-convert-seconds-to-hhmmss/)
+
+Thanks, to the creators of pandas for their outstanding [User guide](https://pandas.pydata.org/docs/user_guide/index.html)
