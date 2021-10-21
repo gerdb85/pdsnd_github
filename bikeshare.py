@@ -32,7 +32,8 @@ def get_filters():
     # first: get input for city
     while True:
         city = input("Please choose a city.\n"
-                     "You can choose Chicago, New York or Washington.\n").lower()
+                     "You can choose Chicago, New York or Washington.\n"
+                     "No gender and birth info available for Washington").lower()
 
         # if user input is valid then break loop
         if city in valid_inputs_city:
